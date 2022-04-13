@@ -18,3 +18,14 @@ Relationship between the user rating and the income of a movie.
 ###### Data Source
 This data named Movie Industry and was acquired from kaggle and can be acquired here Link
 It has 10 columns and 6820 rows in the dataset.
+### Recommendations
+
+We recommend streaming services invest heavily on Action and Comedy Films since they had a high gross revenue to profit ratio.
+
+Streaming services should partner with these production companies i.e. Warner Bros, Universal Studios, Columbia Pictures and 20th Century Fox
+
+We recommend working with Steven Spielberg and Aaron Sorkin since he grossed a high revenue to profit ratio through their Action and Comedy films respectively
+
+The highest performing writers were Christopher Markus James Cameron.
+
+The Actors that had the highest number of eyeballs looking ahead for their films are Robert Downey Junior, Tom Hanks and Tom Cruise since they grossed the highest in the Box Office
