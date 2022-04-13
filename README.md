@@ -13,7 +13,7 @@ To determine which company has the best movie investments
 To determine which star’s and director’s movies have the highest possibility of income success based on previous successes
 To determine which year was a good movie year and why
 To determine highest grossing film and get its attributes
-To determine the country that watches the most 
+To determine the country of origin that produces the most movies 
 Relationship between the user rating and the income of a movie.
 ###### Data Source
 This data named Movie Industry and was acquired from kaggle and can be acquired here Link
