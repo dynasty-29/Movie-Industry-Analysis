@@ -55,7 +55,7 @@ Margaret Gathoni
 
 Ezra Arege
 
-Wilkister Ambaka
+Wilkister Mbaka
 
 Samuel Mutua
 
