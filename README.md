@@ -37,11 +37,10 @@ This data named Movie Industry and was acquired from kaggle and can be acquired 
 It has 10 columns and 6820 rows in the dataset.
 #### Conclusions
 
-Paranormal activity was a movie in Horror genre that made sky rocketing profit ratio putting its filming company, directors, writers and actors on the success list map
+During our analysis we determined that the movie industry was stronger than ever with a rising trajectory since 1980, with the peak year as 2016 which had the highest revenue ever. Although with the addition of streaming services it would seem that there would be decline in revenue but with this analysis we can conclude that the movie industry was not affected based on our dataset.
 
-The highest performing writers were from the action genre such as Christopher Markus James Cameron.
+The Actors that had the highest number of eyeballs looking ahead for their films are Robert Downey Junior, Tom Hanks and Tom Cruise since they grossed the highest in the Box Office.
 
-The Actors that had the highest number of eyeballs looking ahead for their films are Robert Downey Junior, Tom Hanks and Tom Cruise since they grossed the highest in the Box Office
 ### Recommendations
 
 We recommend streaming services invest heavily on Action and Comedy Films since they had a high gross revenue to profit ratio.
